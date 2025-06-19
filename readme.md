@@ -70,7 +70,7 @@ python ultmSetupV0.1.py
 
 ## Quick Links
 
-- [User Manual (PDF)](docs/Debug_Tool_User_Manual.pdf)
+- [User Manual (PDF)](doc/Debug_Tool_User_Manual.pdf)
 <!-- - [Protocol Documentation (PDF)](docs/FMS_Protocol_Documentation.pdf)
 - [Developer Guide (PDF)](docs/FMS_Developer_Guide.pdf) -->
 
@@ -89,7 +89,7 @@ The FMS Debug Tool is a diagnostic and configuration utility for FMS devices. Th
 
 For detailed information, please refer to the PDF documentation:
 
-1. [User Manual](docs/FMS_Debug_Tool_User_Manual.pdf) - Complete guide for using the debug tool
+1. [User Manual](doc/Debug_Tool_User_Manual.pdf) - Complete guide for using the debug tool
 <!-- 2. [Protocol Documentation](docs/FMS_Protocol_Documentation.pdf) - Details about supported protocols and their implementation
 3. [Developer Guide](docs/FMS_Developer_Guide.pdf) - Technical documentation for developers -->
 
