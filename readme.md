@@ -66,9 +66,36 @@ python ultmSetupV0.1.py
 - `login <password>` - Login to CLI
 - `help` - Show available commands
 
+# FMS Debug Tool Documentation
+
+## Quick Links
+
+- [User Manual (PDF)](docs/Debug_Tool_User_Manual.pdf)
+<!-- - [Protocol Documentation (PDF)](docs/FMS_Protocol_Documentation.pdf)
+- [Developer Guide (PDF)](docs/FMS_Developer_Guide.pdf) -->
+
+## Overview
+
+The FMS Debug Tool is a diagnostic and configuration utility for FMS devices. This tool provides:
+
+- Serial port monitoring and debugging
+- WiFi configuration
+- Protocol settings
+- Device discovery
+- Nozzle configuration
+- Command line interface
+
+## Documentation
+
+For detailed information, please refer to the PDF documentation:
+
+1. [User Manual](docs/FMS_Debug_Tool_User_Manual.pdf) - Complete guide for using the debug tool
+<!-- 2. [Protocol Documentation](docs/FMS_Protocol_Documentation.pdf) - Details about supported protocols and their implementation
+3. [Developer Guide](docs/FMS_Developer_Guide.pdf) - Technical documentation for developers -->
+
 ## Support
 
-For issues and feature requests, please contact the Ultramarine support team.
+For technical support or questions, please contact support@iih
 
 ## License
 
